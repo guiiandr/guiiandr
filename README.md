@@ -1,7 +1,7 @@
 ## Olá eu sou o Guilherme Andrade !
 <br>
 
-### Sou estudante de engenharia de softaware, <br> apaixonado pelos estudos e sempre disposto <br> a cada dia aprender mais. 
+### Sou estudante de engenharia de software, <br> apaixonado pelos estudos e sempre disposto <br> a cada dia aprender mais. 
 
 
  
