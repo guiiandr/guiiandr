@@ -14,7 +14,7 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiiandr&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiiandr&show_icons=true&theme=transparent)
 
 
 ### Tecnologia que eu estou desenvolvendo no meu dia a dia ! 
