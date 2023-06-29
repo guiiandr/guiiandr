@@ -17,7 +17,7 @@
  <a href="https://github.com/guiiandr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=guiiandr&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt= "Guilherme's github stats" /></a> 
 
  <br>
- <a href="https://github.com/guiiandr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiiandr&layout=compact&theme=buefy&hide_border=true" /></a> |
+ <a href="https://github.com/guiiandr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiiandr&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 ### Tecnologia que eu estou desenvolvendo no meu dia a dia ! 
 
