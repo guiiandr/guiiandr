@@ -18,7 +18,7 @@
 
  <br>
 
-![Guilherme Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+![Guiiandr Status](https://github-readme-stats.vercel.app/api?username=guiiandr&show_icons=true)
 
 ### Tecnologia que eu estou desenvolvendo no meu dia a dia ! 
 
