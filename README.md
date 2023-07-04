@@ -14,11 +14,12 @@
 
 <br>
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=guiiandr&layout=compact)](https://github.com/guiiandr/github-readme-stats)
+![Guiiandr Status](https://github-readme-stats.vercel.app/api?username=guiiandr&show_icons=true)
+
 
  <br>
 
-![Guiiandr Status](https://github-readme-stats.vercel.app/api?username=guiiandr&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=guiiandr&layout=compact)](https://github.com/guiiandr/github-readme-stats)
 
 ### Tecnologia que eu estou desenvolvendo no meu dia a dia ! 
 
