@@ -1,4 +1,4 @@
-## Olá eu sou o Guilherme Andrade !
+## Olá, bem vindo ao meu perfil !
 <br>
 
 ### Sou estudante de engenharia de software, <br> apaixonado pelos estudos e sempre disposto <br> a cada dia aprender mais. 
